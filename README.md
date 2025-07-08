@@ -10,5 +10,4 @@ Graduate Computer Science student (4th year) at the University of Bologna.<br>Pr
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=fri3erg&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=fri3erg&theme=dark&hide_border=true)<br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fri3erg&show_icons=true&locale=en&layout=compact" alt="fri3erg" /></p>
 
