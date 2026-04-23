@@ -1,5 +1,5 @@
 # 💫 About Me:
-Graduate Computer Science student (4th year) at the University of Bologna.<br>Proficient in Python, Angular, Java, Kotlin and Node.js.<br>Currently exploring web development, and AI function calling.
+Graduate Computer Science student (5th year) at the University of Bologna.<br>Proficient in Python, Angular, Java, Kotlin and Node.js.<br>Currently exploring web development,RAG and AI function calling.
 
 
 ## 🌐 Socials:
